@@ -1,4 +1,4 @@
-# Admin Dashboard
+# 🚀 Admin Dashboard
 The Admin Dashboard project is a web application designed to provide a user-friendly interface for managing and monitoring various aspects of a system or platform. This dashboard offers a range of features and functionalities to assist administrators in efficiently handling tasks such as user management, data visualization, analytics, and system configuration.
 
 With a clean and modern design, the Admin Dashboard provides an intuitive user experience. The user interface is responsive and adaptable, ensuring seamless access and optimal performance across different devices and screen sizes.
@@ -13,6 +13,6 @@ Key features of this project include:
 
 - System Configuration: This project offers a range of configuration options, allowing administrators to customize settings to align with their specific requirements. They can adjust notification preferences, set up automated tasks, and manage system integrations.
 
-  ## Screenshots
+# 📸 Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/bogdanblare/Admin-Dashboard/main/Screenshot.png)
